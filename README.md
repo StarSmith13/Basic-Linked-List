@@ -1,2 +1,2 @@
 # Basic-Linked-List
-Linked list in C language
+Linked list in Java
